@@ -1,18 +1,3 @@
-# Level 6
-
-```sh
-# password: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
-~$ ssh bandit5@bandit.labs.overthewire.org -p 2220
-
-bandit5@bandit:~$ find inhere/ -perm /u+r-w -size 1033c
-inhere/maybehere07/.file2
-
-bandit5@bandit:~$ cat inhere/maybehere07/.file2
-P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
-```
-
-Challenge: https://overthewire.org/wargames/bandit/bandit6.html
-
 # Level 7
 
 ```sh
