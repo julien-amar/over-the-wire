@@ -1,15 +1,3 @@
-# Level 9
-
-```sh
-# password: TESKZC0XvTetK0S9xNwm25STk5iWrBvP
-~$ ssh bandit8@bandit.labs.overthewire.org -p 2220
-
-bandit8@bandit:~$ sort data.txt | uniq -c | grep "1 "
-      1 EN632PlfYiZbn3PhVK3XOGSlNInNE00t
-```
-
-Challenge: https://overthewire.org/wargames/bandit/bandit9.html
-
 # Level 10
 
 ```sh
