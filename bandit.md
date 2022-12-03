@@ -1,35 +1,3 @@
-# Level 15
-
-```sh
-~$ ssh bandit14@bandit.labs.overthewire.org -p 2220 -i sshkey.private
-
-bandit14@bandit:~$ cat /etc/bandit_pass/bandit14 | nc localhost 30000
-Correct!
-jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
-```
-
-Challenge: https://overthewire.org/wargames/bandit/bandit15.html
-
-# Level 16
-
-```sh
-# password: jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
-~$ ssh bandit15@bandit.labs.overthewire.org -p 2220
-
-bandit15@bandit:~$ openssl s_client -connect localhost:30001
-CONNECTED(00000003)
-# <truncated>
----
-read R BLOCK
-jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
-Correct!
-JQttfApK4SeyHwDlI9SXGR50qclOAil1
-
-closed
-```
-
-Challenge: https://overthewire.org/wargames/bandit/bandit16.html
-
 # Level 17
 
 ```sh
