@@ -1,19 +1,3 @@
-# Level 10
-
-```sh
-# password: EN632PlfYiZbn3PhVK3XOGSlNInNE00t
-~$ ssh bandit9@bandit.labs.overthewire.org -p 2220
-
-bandit9@bandit:~$ strings data.txt | grep "=="
-========== the
-bu========== password
-4iu========== is
-b~==P
-========== G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
-```
-
-Challenge: https://overthewire.org/wargames/bandit/bandit10.html
-
 # Level 11
 
 ```sh
