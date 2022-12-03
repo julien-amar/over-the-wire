@@ -1,15 +1,3 @@
-# Level 1
-
-```sh
-# password: bandit0
-~$ ssh bandit0@bandit.labs.overthewire.org -p 2220
-
-bandit0@bandit:~$ cat readme
-NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
-```
-
-Challenge: https://overthewire.org/wargames/bandit/bandit1.html
-
 # Level 2
 
 ```sh
