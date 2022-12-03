@@ -1,18 +1,3 @@
-# Level 2
-
-```sh
-# password: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
-~$ ssh bandit1@bandit.labs.overthewire.org -p 2220
-
-bandit1@bandit:~$ cat ./-
-rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
-
-bandit1@bandit:~$ cat < -
-rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
-```
-
-Challenge: https://overthewire.org/wargames/bandit/bandit2.html
-
 # Level 3
 
 ```sh
