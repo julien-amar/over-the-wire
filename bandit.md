@@ -1,15 +1,3 @@
-# Level 4
-
-```sh
-# password: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
-~$ ssh bandit3@bandit.labs.overthewire.org -p 2220
-
-bandit3@bandit:~$ cat inhere/.hidden
-2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
-```
-
-Challenge: https://overthewire.org/wargames/bandit/bandit4.html
-
 # Level 5
 
 ```sh
