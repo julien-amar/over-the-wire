@@ -1,15 +1,3 @@
-# Level 8
-
-```sh
-# password: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
-~$ ssh bandit7@bandit.labs.overthewire.org -p 2220
-
-bandit7@bandit:~$ cat data.txt | grep millionth | cut -f 2
-TESKZC0XvTetK0S9xNwm25STk5iWrBvP
-```
-
-Challenge: https://overthewire.org/wargames/bandit/bandit8.html
-
 # Level 9
 
 ```sh
