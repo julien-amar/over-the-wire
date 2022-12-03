@@ -1,15 +1,3 @@
-# Level 7
-
-```sh
-# password: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
-~$ ssh bandit6@bandit.labs.overthewire.org -p 2220
-
-bandit6@bandit:~$ find / -user bandit7 -group bandit6 -size 33c -exec cat {} \; 2>/dev/null
-z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
-```
-
-Challenge: https://overthewire.org/wargames/bandit/bandit7.html
-
 # Level 8
 
 ```sh
