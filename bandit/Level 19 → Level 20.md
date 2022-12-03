@@ -13,7 +13,7 @@ Connect to the challenge through SSH:
 ~$ ssh bandit19@bandit.labs.overthewire.org -p 2220 # password: awhqfNnAbc1naukrpqDYcF95h7HoMTrC
 ```
 
-Execute the `bandit20-do` to execute the command `cat /etc/bandit_pass/bandit20` under `bandit20`'s identity:
+Execute the command `cat /etc/bandit_pass/bandit20` through `bandit20-do` run it under `bandit20`'s identity:
 
 ```sh
 bandit19@bandit:~$ ./bandit20-do cat /etc/bandit_pass/bandit20
